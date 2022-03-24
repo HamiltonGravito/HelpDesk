@@ -1,4 +1,4 @@
-package com.egithub.hamilton.helpdesk;
+package com.github.hamilton.helpdesk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
